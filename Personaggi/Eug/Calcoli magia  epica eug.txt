@@ -1,0 +1,10 @@
+Evoca orrore pseudonaturale
+14          Seme (convocare)
++96         Evocare GS 50
++20         Evocare creatura specifica
++20         1 azione
+--------------------------------------------
+150
+-87         bruciare 8.700px
+--------------------------------------------
+63
